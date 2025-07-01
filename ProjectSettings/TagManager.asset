@@ -1,0 +1,63 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Ground
+  - Enemy
+  - GoldCoin
+  - Goal
+  - Key
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Ground
+  - Water
+  - UI
+  - coin
+  - Trap
+  - Player
+  - Enemy
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Background
+    uniqueID: 3410307077
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Tilemap
+    uniqueID: 648242211
+    locked: 0
+  - name: Player
+    uniqueID: 1784042935
+    locked: 0
+  - name: HIASAN
+    uniqueID: 523782267
+    locked: 0
+  - name: Object
+    uniqueID: 1177493857
+    locked: 0
